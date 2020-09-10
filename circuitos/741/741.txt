@@ -1,2 +1,4 @@
-En esta carperta está la screenshot del circuito 555 modificado cuyo link es el siguiente:
-https://www.tinkercad.com/things/8i6wyBCw0x7-555-joaquin-tapia/editel?sharecode=12vMr-6nG8QUh9I-31C1CTzf1PWpbbOnFCUfrFigi6I
+En esta carperta está la screenshot del circuito 471 modificado
+en donde se le cambio la resistencia de 500ohm a una de 470 ohm .
+ cuyo link es el siguiente:
+https://www.tinkercad.com/things/kAXCDU8B9oj-copy-of-ejemplo-amplificador-operacional-741-/editel?tenant=circuits?sharecode=kThp6MkNiJE4F4CFfaq4erlVvJ9bJtMvkMlPJj6_uSk
