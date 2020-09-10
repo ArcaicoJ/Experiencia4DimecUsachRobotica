@@ -1,7 +1,8 @@
-
+// se comenta el codigo 
 
 void setup()
 {
+  //declaracion de outputs
   pinMode(8, OUTPUT);
   pinMode(9, OUTPUT);
   pinMode(13,OUTPUT);
@@ -13,6 +14,7 @@ void CambiaLed(){
 
 void loop()
 {
+  //cicloo
   digitalWrite(9, HIGH);
   digitalWrite(8, LOW);
   delay(1000); // Espera 1 segundo (1000 milisegundos)
